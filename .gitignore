@@ -1,0 +1,11 @@
+# Secrets
+*.env
+*secret*
+*credentials*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
